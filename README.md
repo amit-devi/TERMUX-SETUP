@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=TERMUX%20SETUP&fontSize=90&animation=fadeIn&fontAlignY=38&desc=TERMUX%20BASIC%20MODULE%20SETUP%20FOR%20TERMUX%20APP%20!!&descAlignY=51&descAlign=62)
-
 </p>   
-</br>
 <p align="center">
 
 > Welcome to the **Termux Setup Tools**, a professional and user-friendly Bash script designed to optimize your Termux environment! This script installs essential packages, configures your terminal, tests internet speed, displays system information, and much more!  
