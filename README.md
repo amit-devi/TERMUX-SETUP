@@ -1,17 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=TERMUX%20SETUP&fontSize=90&animation=fadeIn&fontAlignY=38&desc=TERMUX%20BASIC%20MODULE%20SETUP%20FOR%20TERMUX%20APP%20!!&descAlignY=51&descAlign=62)
 
-</p>
-   <p align="center">
-      <a href="https://github.com/U7P4L-IN/TERMUX-SETUP/stargazers">
-      <img alt="Stargazers" src="https://img.shields.io/github/stars/U7P4L-IN/TERMUX-SETUP?style=for-the-badge&logo=github&color=f4dbd6&logoColor=D9E0EE&labelColor=302D41"></a>
-      <a href="https://github.com/U7P4L-IN/TERMUX-SETUP/releases/latest">
-      <img alt="Releases" src="https://img.shields.io/github/release/U7P4L-IN/TERMUX-SETUP?style=for-the-badge&logo=semantic-release&color=f5bde6&logoColor=D9E0EE&labelColor=302D41"/></a>
-      <a href="https://www.conventionalcommits.org/en/v1.0.0/">
-      <img alt="conventionalcommits" src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?style=for-the-badge&logo=conventionalcommits&color=ee99a0&logoColor=D9E0EE&labelColor=302D41"></a>
-      <a href="https://github.com/U7P4L-IN/TERMUX-SETUP/actions/workflows/github-action.yml">
-      <img alt="testandlint" src="https://img.shields.io/github/actions/workflow/status/vn7n24fzkq/github-profile-summary-cards/test-and-lint.yml?branch=main&label=Test%20and%20Lint&style=for-the-badge&color=a6da95"></a>
-   </p>
-   
+</p>   
 </br>
 <p align="center">
 
