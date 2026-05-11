@@ -1,5 +1,7 @@
 <h1>TERMUX SETUP</h1>
-(https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=TERMUX%20SETUP&fontSize=90&animation=fadeIn&fontAlignY=38&desc=TERMUXB%20BASIC%20MODULE%20SETUP%20FOR%20TERMUX%20APP%20!!&descAlignY=51&descAlign=62)
+<p align="center">
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=TERMUX%20SETUP&fontSize=90&animation=fadeIn&fontAlignY=38&desc=TERMUXB%20BASIC%20MODULE%20SETUP%20FOR%20TERMUX%20APP%20!!&descAlignY=51&descAlign=62">
+</p>
 <h3>Overview</h3>
 <p align="justify">Welcome to Termux Setup Tools, a professional Bash and Python-based script designed to optimize your Termux environment. This tool automates the installation of essential packages, configures your terminal, and ensures your system is optimized for performance.</p>
 
