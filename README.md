@@ -1,9 +1,9 @@
-<h2>TERMUX SETUP</h2>
+<h1>TERMUX SETUP</h1>
 
-<h5>🚀 Overview</h5>
+<h3>Overview</h3>
 <p align="justify">Welcome to Termux Setup Tools, a professional Bash and Python-based script designed to optimize your Termux environment. This tool automates the installation of essential packages, configures your terminal, and ensures your system is optimized for performance.</p>
 
-<h5>🛠️ Features</h5>
+<h3>Features</h3>
 <ul>
    <li>Smart Package Management: Checks for existing packages and only installs what is missing.</li>
    <li>System Optimization: Automatically updates, upgrades, and cleans up unnecessary cache files.</li>
@@ -11,7 +11,7 @@
    <li>Lightweight: Designed specifically for the Termux environment.</li>
 </ul>
 
-<h5>📦 Installation</h5>
+<h3>Installation</h3>
 
 <p>To get started, copy and paste the following commands into your Termux terminal:</p>
 
@@ -25,26 +25,26 @@ Bash
     <li>python3 SET.py</li>
  </ul>
  
-<h5>🛡️ Requirements</h5>
+<h3> Requirements</h3>
 <ul>
  <li>Termux App (Tested on Android).</li>
  <li>Internet Connection for downloading dependencies.</li>
  <li>Python 3.x.</li>
 </ul>
 
-<h5>❓ FAQ</h5>
+<h3> FAQ</h3>
 <ul>
  <li>What happens if a package is already installed?</li>
  <li>The script intelligently skips reinstallation and notifies you that the package is already present to save time and data.</li>
 </ul>
 
-<h5>🤝 Contributing & License</h5>
+<h3> Contributing & License</h3>
 <ul>
  <li>Contributing: Feel free to clone this project! For major changes, please open an issue first to discuss your ideas.</li>
  <li>License: This project is licensed under the GNU General Public License v3.0.</li>
 </ul>
 
-<h5>⚖️ Copyright</h5>
+<h3>Copyright</h3>
 <ul>
     <li>Copyright © 2023-27 whitedevil-21(Amit Devi)
         All rights reserved. This project is the intellectual property of ANONYMOUS CYBER. Reproduction or distribution without explicit 
