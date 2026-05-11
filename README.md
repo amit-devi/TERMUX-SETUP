@@ -93,7 +93,7 @@ For more convoluted language, see the [LICENSE](/LICENSE).
 <h5 align="center"><b>DESCRIPTION</b></h5>
 
 * ©️ Copyright Message
->> Copyright © [2023-27] [U7P4L-IN]
+>> Copyright © [2023-27] WHITEDEVIL-21(AMIT DEVI)
 >All rights reserved. This Python project, along with its code, documentation, and any associated files, is the intellectual property of ANONYMOUS CYBER. You may not reproduce, distribute, or modify the contents of this repository without explicit permission from the owner.
 ## Give A Star ⭐
 > You can also give this repository a star to show more people and they can use this repository.
