@@ -23,10 +23,13 @@ Bash
     <li>apt update && apt upgrade -y</li>
     <li>pkg install git python -y</li>
     <li>pip install requests</li>
-    <li>git clone --depth=1 https://github.com/U7P4L-IN/TERMUX-SETUP.git</li>
+    <li>git clone https://github.com/whitedevil-21/TERMUX-SETUP.git</li>
     <li>cd TERMUX-SETUP</li>
     <li>python3 SET.py</li>
  </ul>
+ <p align="center">
+    <img src="C:\Users\3\Downloads"
+ </p>
  
 <h3> Requirements</h3>
 <ul>
