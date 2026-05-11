@@ -46,15 +46,15 @@
 - Internet connection for downloading packages.  
 
 ## INSTALL  ON TERMUX
-```python
-apt update && apt upgrade -y
-pkg install git
-pkg install python
-pip install requests
-git clone --depth=1 https://github.com/whitedevil-21/TERMUX-SETUP.git
-cd TERMUX-SETUP
-python3 SET.py
-```
+<ul>
+   <li>apt update && apt upgrade</li>
+   <li>pkg install git</li>
+   <li>pkg install python</li>
+   <li>pkg install requests</li>
+   <li>git clone https://github.com/whitedevil-21/TERMUX-SETUP.git</li>
+   <li>cd TERMUX-SETUP</li>
+   <li>python3 SET.py</li>
+</ul>
 
 <p align="center"><img src="./image/carbon.png">
 
