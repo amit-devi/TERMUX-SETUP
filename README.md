@@ -25,7 +25,7 @@ Bash
     <li>pip install requests</li>
     <li>git clone https://github.com/whitedevil-21/TERMUX-SETUP.git</li>
     <li>cd TERMUX-SETUP</li>
-    <li>python3 SET.py</li>
+    <li>python3 setup.py</li>
  </ul>
  <p align="center">
     <img src="C:\Users\3\Desktop\codesnapshot.png"
