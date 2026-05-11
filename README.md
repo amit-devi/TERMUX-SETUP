@@ -28,7 +28,7 @@ Bash
     <li>python3 setup.py</li>
  </ul>
  <p align="center">
-    <img src="C:\Users\3\Desktop\codesnapshot.png"
+    <img src="./image/codesnapshot.png"
  </p>
  
 <h3> Requirements</h3>
