@@ -28,7 +28,7 @@ Bash
     <li>python3 SET.py</li>
  </ul>
  <p align="center">
-    <img src="C:\Users\3\Downloads"
+    <img src="C:\Users\3\Desktop\codesnapshot.png"
  </p>
  
 <h3> Requirements</h3>
