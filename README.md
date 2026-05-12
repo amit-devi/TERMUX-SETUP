@@ -33,6 +33,7 @@ Bash
 
  <h3>Termux View</h3>
  <img src="./image/BANNER.png">
+ <img src="./image/BANNER2.png">
  
 <h3> Requirements</h3>
 <ul>
