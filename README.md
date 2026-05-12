@@ -28,8 +28,11 @@ Bash
     <li>python3 setup.py</li>
  </ul>
  <p align="center">
-    <img src="./image/commands.png"
+    <img src="./image/commands.png">
  </p>
+
+ <h3>Termux View</h3>
+ <img src="./image/BANNER.png">
  
 <h3> Requirements</h3>
 <ul>
